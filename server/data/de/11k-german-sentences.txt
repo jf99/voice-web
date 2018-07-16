@@ -5471,7 +5471,7 @@ Dabei kann er andere Figuren überspringen.
 Die Dame vereint praktisch Turm und Läufer in einer Figur.
 Einige Schachfiguren lassen sich als Rotationskörper modellieren.
 Jeder weiß, dass der Mond bloß das Licht der Sonne reflektiert.
-Von der Erde sieht man immer die selbe Seite des Mondes.
+Von der Erde sieht man immer dieselbe Seite des Mondes.
 Viele Planeten haben mehrere Monde.
 In dieser Hinsicht stellt unser Planet eine Ausnahme dar.
 Die Venus hat einen viel stärkeren Treibhauseffekt als die Erde.
@@ -7203,7 +7203,7 @@ Die Flöte gilt als einfach zu erlernendes Instrument.
 Neunhundert Euro sind kein Pappenstiel.
 Angesichts der jüngsten Entwicklungen auf dem Immobilienmarkt wird er kleinere Brötchen backen müssen.
 Ich werde aber nicht bis in die Puppen feiern.
-Immer die selbe Leier!
+Immer dieselbe Leier!
 Hier trennt sich die Spreu vom Weizen.
 Einige Ärzte werfen nun ein neues Argument in die Waagschale.
 Er glaubt, er könne dem Finanzamt ein Schnippchen schlagen.
@@ -8706,7 +8706,7 @@ Schön gespielt.
 Ohne ESP würden viele Modelle nicht einmal den Elchtest bestehen.
 Wiederkehrende Träume werden als Echo klassifiziert und vom Personal ignoriert.
 Sehen Sie genau hin!
-Es ist eben nicht genau der selbe Traum.
+Es ist eben nicht genau derselbe Traum.
 Die ganzen Details sind Ömer völlig wumpe.
 Hier kann man nicht mal Parkour laufen, ohne dass jemand die Polizei ruft.
 Beim Parkour geht es nicht um Wettbewerb.
