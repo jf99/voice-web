@@ -15,7 +15,7 @@ Im Moment des Zündens lässt man die Spannung an der Primärspule kurzzeitig ei
 Dadurch wird in der Sekundärspule eine um ein Vielfaches höhere Spannung induziert.
 Damit ein Funke überspringt, sind über tausend Volt nötig.
 Eingefrorene Kraftstoffleitungen gehören dank elektrischer Heizung der Vergangenheit an.
-Alte Dieselmotoren musste man mit einem Gasbrenner oder ähnlichem vorglühen, wenn sie nicht ansprangen.
+Alte Dieselmotoren musste man mit einem Gasbrenner oder Ähnlichem vorglühen, wenn sie nicht ansprangen.
 Heute geht auch das automatisch und elektrisch.
 Um aus wenig Hubraum noch mehr Leistung herauszukitzeln, hat man Turbolader erfunden.
 Dabei handelt es sich um ein Gebläse, das die Ansaugluft vorverdichtet.
@@ -34,7 +34,7 @@ Ein mageres Gemisch verbrennt effizienter.
 Bei Sauerstoffüberschuss wiederum können Stickoxide entstehen.
 Die Luft besteht ja aus über siebzig Prozent Stickstoff.
 Das passiert aber erst bei sehr hohen Temperaturen.
-Den Sauerstoffgehalt eines Gasgemischs bestimmt man mit Lamda-Sonden.
+Den Sauerstoffgehalt eines Gasgemischs bestimmt man mit Lambda-Sonden.
 In welchen Proportionen miteinander reagierende Stoffe verbraucht werden, gibt die Stöchiometrie an.
 Sie lassen sich an der Reaktionsgleichung ablesen.
 Ionenantriebe sind im Vergleich zu konventionellen Raketentriebwerken sehr effizient.
@@ -175,8 +175,8 @@ Gehen Sie bitte weiter, hier gibt es nichts zu sehen!
 Wer auch immer sich das überlegt hat, ist ein Genie.
 Ich würde sagen, es ist ein Mittelding aus Dystopie und Utopie.
 Wer Linux wirklich lernen will, sollte mit der Kommandozeile beginnen.
-Was nicht dran ist, kann auch nicht kaputt gehen.
-Mit tausenden dieser Brillen kann man vor der nächsten totalen Sonnenfinsternis ein Vermögen verdienen.
+Was nicht dran ist, kann auch nicht kaputtgehen.
+Mit Tausenden dieser Brillen kann man vor der nächsten totalen Sonnenfinsternis ein Vermögen verdienen.
 Schlagen Sie zu, solange die Dinger so billig sind!
 Man lässt den Tanklaster unter kontrollierten Bedingungen abbrennen und zeichnet alles auf.
 Außer dem roten Fuchs kann keiner die blaue Scheibe lesen.
@@ -206,7 +206,7 @@ Zum Nulltarif kann man hier nirgendwo parken.
 Was erwartest du?
 Frau Schröder ist halt etwas künstlerisch angehaucht.
 Wie funktioniert ein Tintenkiller?
-Obwohl es mit viel Tamtam beworben wurden, entpuppt sich das Haarwuchsmittel als Ladenhüter.
+Obwohl es mit viel Tamtam beworben wurde, entpuppt sich das Haarwuchsmittel als Ladenhüter.
 Hier poppt immer so ein Fenster auf.
 Das erste Aprilwochenende beschert uns bestes Motorradwetter.
 Fliege zurück zum Mutterschiff!
