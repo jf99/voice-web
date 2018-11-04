@@ -99,7 +99,7 @@ Spring zur Datei mit der Klassendefinition!
 Ein Ka­ta­ma­ran segelt unter falscher Flagge.
 Halten Sie den Durchgang bitte frei!
 Die Wegsuche-KI kommt mit den Wendeschleifen nicht klar.
-Marek will nochmal.
+Marek will noch mal.
 Auch Passivhäuser brauchen Energie.
 Kann man hier denn nicht lüften?
 Dies ist ein Passivhaus.
@@ -128,7 +128,7 @@ Wieso stinkst du denn so nach Rauch?, fragt der Kollege, der von all dem nichts 
 Skeptisch mustert er den Neuling, der gerade erst seine Ausbildung abgeschlossen hat.
 Was rieche ich denn da für einen Stoff?
 Unfähig eine Antwort zu geben, zuckt er mit den Schultern.
-Geh erstmal nach Hause und schlaf dich aus!
+Geh erst mal nach Hause und schlaf dich aus!
 Und zieh dir frische Sachen an!
 In diesem Zustand kannst du nicht zum Dienst.
 Das schädigt unseren ohnehin schon ramponierten Ruf.
