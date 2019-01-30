@@ -18,7 +18,8 @@ Es ist doch langweilig, wenn immer derselbe Verein die Tabelle anführt.
 Die Tasse verfärbt sich, wenn man sie mit einer heißen Flüssigkeit füllt.
 Sie hat es voll drauf.
 Stellt sich noch die Frage, wie wir mit Nichtlinearitäten umgehen.
-Wie soll ich allein eine Waschmaschine die Treppe hochtragen, die mehr wiegt als ich selbst?
+Wie soll ich allein eine Waschmaschine die Treppe hochtragen?
+Die Waschmaschine wiegt mehr als ich selbst.
 Ausgetragen wird der Wettbewerb in Bergisch Gladbach.
 Lieber zehn Schuldige auf freiem Fuß als ein Unschuldiger hinter Gittern.
 Selbst das Audimax ist nicht groß genug.
@@ -32,13 +33,13 @@ Ein angriffslustiger Taxifahrer versucht, sich sein Auto wiederzuholen.
 Er will einfach nicht aufgeben.
 Aber die Sicherheit steht und fällt damit, dass der Schlüssel geheim gehalten wird.
 Im Bosskampf regeneriert sich die Gesundheit nicht mehr automatisch.
-Um den Speicher zu löschen, nehmen Sie die Batterie raus und warten Sie dreißig Sekunden.
+Um den Speicher zu löschen, entfernen Sie die Batterie und warten Sie dreißig Sekunden.
 Oder drücken Sie den Reset-Knopf.
 Heiliger Strohsack!
 Welche Größe müssen Texturen mindestens haben?
 Wieso dauert es schon wieder so lange, bis die Bude warm wird?
 Frau Kramer erwies sich als zuvorkommende Gastgeberin.
-Damit Magen und Darm leer sind, wird die Fütterung zwei Tage vor der Schlachtung abgesetzt.
+Damit Magen und Darm leer sind, wird die Fütterung kurz vor der Schlachtung abgesetzt.
 Mehr Trainingsdaten sind grundsätzlich immer zu begrüßen.
 Und zwar nicht zu knapp!
 Fahr vorsichtig!
@@ -76,7 +77,7 @@ Die inneren Organe werden vom Chitinpanzer geschützt und gestützt.
 Das Amt kann sich vor Anfragen kaum retten.
 Nach fünf Stunden Suche konnte der Junge gefunden und wohlbehalten seinen Eltern zurückgebracht werden.
 Dabei handelt es sich um einen Produktfehler, der dem Hersteller bekannt ist.
-Ein neues BIOS behebt das Problem.
+Eine neue Firmware behebt das Problem.
 Warum seid ihr nicht gleich in Bitterfeld geblieben?
 Wie könnt ihr denn jetzt schon wieder Hunger haben?
 Nach welchen Kriterien würdest du einen Zeltplatz aussuchen?
@@ -144,7 +145,8 @@ Andächtig hielten die Gläubigen vor dem Kruzifix inne.
 Der Staatsanwalt macht eine ausladende Geste.
 Zwei Choleriker außer Rand und Band!
 Frederike wuschelt ihrem kleinen Bruder durchs Haar.
-Alle Leute aus der Gosse sind dem Aufruf gefolgt und marschieren zum Protest vor dem Rathaus.
+Alle Leute aus der Gosse sind dem Aufruf gefolgt.
+Gemeinsam marschieren sie zum Protest vor dem Rathaus.
 Man berichtet von einem Aufstand, der seinesgleichen sucht.
 In der gesamten Geschichte von Bad Homburg hat es sowas noch nicht gegeben.
 Schließlich gelobt ein Vertreter der Stadt Besserung.
@@ -165,7 +167,8 @@ Das war nicht Teil der Abmachung!
 Warum sprichst du nicht mit ihr darüber?
 Weil es nachweislich nichts bewirkt.
 Er legt wert auf Praxiserfahrung, nicht auf Bücherwissen.
-Wieso gibt man so viel Geld fürs Wohnen aus, wenn man eh kaum zu Hause ist?
+Wieso gibt man so viel Geld fürs Wohnen aus?
+Insbesondere dann, wenn man eh kaum zu Hause ist?
 Die Herleitung bleibe ich Ihnen schuldig.
 Jetzt müsste Ihnen eigentlich der Mund offen stehen bleiben.
 Ausgerechnet an der Stelle ist offenbar der Kameramann eingeschlafen.
@@ -203,7 +206,8 @@ Aber um ihn zum Reden zu bringen, müssen Sie sich schon anstrengen.
 Man gewinnt sein Vertrauen nicht, indem man ihm einfach viel Trinkgeld gibt.
 Von gefallenen Gegnern kann man Waffen einsammeln, die man selbst noch nicht freigeschaltet hat.
 Panzertape heißt Panzertape, weil die Bundeswehr damit ihre kaputten Panzer repariert.
-Und weil das Zeug so gut ist, funktionieren die Panzer im Gegensatz zu Gewehren und Hubschraubern auch.
+Das Zeug ist wirklich gut.
+Deshalb funktionieren die Panzer im Gegensatz zu Gewehren und Hubschraubern auch.
 So aufgeräumt und sauber sieht Lorenz Wohnung nur aus, wenn er Besuch erwartet.
 Trotz Strumpfmaske konnte der Täter anhand seiner Stimme identifiziert werden.
 Du wartest auf die Bahn, die Bahn aber nicht auf dich.
@@ -211,7 +215,8 @@ Ist das nicht unfair?
 Und dafür darfst du dann auch noch bezahlen!
 Ich glaube, ihr redet aneinander vorbei.
 Regeln Sie die Temperatur bitte über das Thermostat, nicht übers Fenster.
-Sie entschied sich, ihre Karriere an den Nagel zu hängen, um in Afrika Entwicklungshilfe zu leisten.
+Sie entschied sich, ihre Karriere an den Nagel zu hängen.
+Stattdessen leistet sie nun in Afrika Entwicklungshilfe.
 Teilen Sie Ihrem Chef mit, dass er soeben einen treuen Kunden verloren hat.
 Warum ist Orangensaft nicht orange, sondern gelb?
 Das ergibt doch keinen Sinn.
