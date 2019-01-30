@@ -32,7 +32,7 @@ Ein angriffslustiger Taxifahrer versucht, sich sein Auto wiederzuholen.
 Er will einfach nicht aufgeben.
 Aber die Sicherheit steht und fällt damit, dass der Schlüssel geheim gehalten wird.
 Im Bosskampf regeneriert sich die Gesundheit nicht mehr automatisch.
-Um den Speicher zu löschen, nehmen Sie die Batterie raus und warten sie dreißig Sekunden.
+Um den Speicher zu löschen, nehmen Sie die Batterie raus und warten Sie dreißig Sekunden.
 Oder drücken Sie den Reset-Knopf.
 Heiliger Strohsack!
 Welche Größe müssen Texturen mindestens haben?
