@@ -84,7 +84,8 @@ Nur wer Neuland zu betreten wagt, kann die Rolle des Vorreiters einnehmen.
 Damit fällt der Ausflug nach Breslau ins Wasser.
 Lorenz ist mit einem dicken Schädel aufgewacht.
 Auf Grundlage einer vagen Vermutung kann man niemanden einsperren.
-Wer noch Zeit und Lust hat, ist nachher zu Kaffee und Kuchen im Gemeindehaus eingeladen.
+Wer Zeit und Lust hat, ist nachher eingeladen.
+Im Gemeindehaus gibt es dann noch Kaffee und Kuchen.
 Sage und schreibe elf Kilometer ist sie am Stück geschwommen.
 Wenn man nicht gegen die Strömung ankommt, muss man aus ihr heraus schwimmen.
 Geht das in Ordnung?
@@ -98,7 +99,8 @@ Vor der Erstaufnahmestelle stehen sich die Syrer die Füße platt.
 Kannst du ihm bitte irgendwie eintrichtern, dass der Mörser tabu ist?
 Es ist wahnsinnig schwierig, die Helix unbeschädigt um den Stift zu friemeln.
 Was die Japaner gestern präsentiert haben, stellt alles bisher dagewesene in den Schatten.
-Sie gibt sich mit zig Jungs ab, aber den einzigen, der sie wirklich liebt, lässt sie links liegen.
+Sie gibt sich mit zig Jungs ab.
+Aber den einzigen, der sie wirklich liebt, lässt sie links liegen.
 Die Vorzüge sind nicht von der Hand zu weisen.
 Auf dem Volksfest sprachen und tranken die Besucher Kölsch.
 Die Wände ihres Zimmers hat sie himmelblau gestrichen.
@@ -125,7 +127,7 @@ Tank oder Teller?
 Bei wem?
 Welcher genau?
 Woher denn das?
-Achte darauf, dass das Format der SIM-Karte zum Telefon passt.
+Achte darauf, dass das Format des Identitätsmoduls zum Telefon passt.
 Ach was, dafür gibt es Adapter!
 Andrea glaubt, sie hätte das Internet kaputt gemacht.
 Nachdem sie den Schleichweg durch den Wald genommen hatten, waren sie von Mücken zerstochen.
@@ -139,7 +141,7 @@ Das erfordert eine gültige Karte und mindestens hundert Euro Bestechungsgeld.
 Die genaue Höhe berechnet sich nach der Anzahl der Tage.
 In dieser Broschüre sind unsere Konditionen genau erläutert.
 In verschwörerischer Atmosphäre besprechen sie ihren Schlachtplan.
-AIDS gilt derzeit als nicht heilbar, aber immerhin beherrschbar.
+Das erworbene Immunschwächesyndrom gilt derzeit als nicht heilbar, aber immerhin beherrschbar.
 Das waren noch Zeiten!
 Obwohl Flori die Route täglich fährt, weiß der die Straßennamen nicht aus dem Kopf.
 Darüber herrscht offenbar eine stille Übereinkunft.
@@ -158,7 +160,8 @@ Der Akku hält viel kürzer, wenn der Empfang schlecht ist.
 Wie schaltet man hier die Tastentöne aus?
 Auf Wärmebilder wird nicht geschossen!
 Sie überlegt, das Zimmer zur Untermiete anzubieten.
-Für einen Euro inklusive aller Steuern und Abgaben bekommt man Erdgas mit weit über vierzig Megajoule Brennwert.
+Für einen Euro bekommt man Erdgas mit weit über vierzig Megajoule Brennwert.
+Und das inklusive aller Steuern und Abgaben.
 Seine Ernährung auf Erdgas umzustellen, wäre also echt kostensparend.
 Selbst der teuerste Ökostromtarif bietet mehr Energie fürs Geld als unser täglich Brot.
 Jugendliche Schönheit ist vergänglich.
@@ -166,16 +169,17 @@ Dieses Video wird die Tierschützer auf den Plan rufen.
 Wenn die Pflanze nicht bald gegossen wird, wird sie eingehen.
 Nach drei Monaten Nichtbenutzung wird das Konto automatisch deaktiviert.
 Glöckner bleibt meiner Meinung nach unter seinen Möglichkeiten.
-Bevor man das kaputte Gerät entsorgt, sollte man es wenigstens aufschrauben und einen Blick ins Innere werfen.
+Bevor man das kaputte Gerät entsorgt, sollte man wenigstens einen Blick ins Innere werfen.
+Dazu schraubt man es auf.
 Möglicherweise lässt sich der Schaden mit geringem Aufwand beheben.
 Und wenn nicht, kann man vielleicht trotzdem etwas lernen.
 Opa sitzt auf der Parkbank und füttert die Enten.
-LEDs werden nicht so heiß wie Halogenlampen, dürfen aber auch nicht so heiß werden.
+Leuchtdioden werden nicht so heiß wie Halogenlampen, dürfen aber auch nicht so heiß werden.
 Hohe Temperaturen verkürzen die Lebensdauer enorm.
 Deswegen begrenzt die Kühlung die maximal mögliche Leistung.
 Andere Bauteile aus Halbleitern haben dasselbe Problem.
 Mikroprozessoren zum Beispiel.
-Pro Fläche setzen CPUs mehr Wärme frei als eine Herdplatte.
+Pro Fläche setzen Hauptprozessoren mehr Wärme frei als eine Herdplatte.
 Alle Tickets waren innerhalb kürzester Zeit restlos ausverkauft.
 Der empfohlene Reifendruck steht auf der Innenseite des Tankdeckels.
 An das neue Fahrgefühl gewöhnt man sich sehr schnell.
@@ -185,7 +189,9 @@ Wir lösen die Aufgabe einmal iterativ und einmal rekursiv.
 Ich finde die Teams ungerecht.
 Nachnominierungen sind nicht ausgeschlossen.
 Toni wollte schon immer einen eigenen Dönerspieß in der Küche haben.
-Wenn Sie Ihren Köter nicht sofort aus dem Laden entfernen, kommt er auch auf den Dönerspieß!
+Wenn Sie Ihren Köter nicht aus dem Laden entfernen, spieße ich ihn auf!
+Dann kommt er auch auf den Dönerspieß.
+Raus aus meinem Laden, aber ein bisschen plötzlich!
 Bei manchen Geburten braucht der Vater mehr medizinische Betreuung als die Mutter.
 Nicht selten kippen Väter um oder stören in ihrer Aufregung den Ablauf.
 Aus seiner Arbeitstasche holte der Pole einen Bunsenbrenner.
@@ -221,7 +227,8 @@ Jeder kennt hier jeden.
 Wo habe ich noch mal meinen Wagen abgestellt?
 Ach egal, dann nehme ich halt einen neuen.
 Zur dunklen Jahreszeit steigen die Einbruchszahlen.
-Such mir mal den dichtesten HNO-Arzt heraus!
+Such mir mal den dichtesten Hals-Nasen-Ohren-Arzt heraus!
+Doktor Linde ist gerade ziemlich dicht.
 Keiner versteht die Aufbauanleitung.
 Mein Gott, dann ist es halt so!
 Wir beginnen beim Ventil und nehmen dann ringsum jede Speiche einzeln in Angriff.
