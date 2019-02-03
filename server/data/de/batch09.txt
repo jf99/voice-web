@@ -1,5 +1,5 @@
 Der Kommerz hat dort alles zerstört.
-Auf Hiddensee fahren keine privaten PKW.
+Auf Hiddensee fahren keine privaten Kraftwagen.
 Wegen schweren Unwetters musste der Fährbetrieb eingestellt werden.
 Frische Seeluft macht gesund.
 Unter den Blinden ist der Einäugige König.
@@ -14,7 +14,7 @@ Werden die Daten gelöscht oder nur als gelöscht markiert?
 Das hast du bestimmt nur geträumt!
 Dieses Jahr verkleiden sich alle Gäste als Kindheitshelden.
 Nächstes Mal füllen wir die Eierkuchen mit Pflaumenmus.
-Bei konstanten hundertzwanzig FPS erscheinen die Animationen butterweich.
+Bei konstanten hundertzwanzig Bildern pro Sekunde erscheinen die Animationen butterweich.
 Die Drohne filmte ihn dabei, wie er das Bauwerk erklomm.
 Dabei folgt sie ihm automatisch.
 Du kannst mir doch nicht erzählen, dass du diese Kleckermenge nicht mehr geschafft hättest!
@@ -53,9 +53,9 @@ Man weiß nie hundertprozentig, ob man den anderen noch mal sieht.
 Man begegnet sich immer zweimal im Leben.
 Vier Augen sehen mehr als zwei.
 Das Sicherungsseil darf nicht über scharfe Kanten gelegt werden.
-Die drei LEDs blinken kurz auf, während die Tastatur initialisiert wird.
+Die drei Leuchten blinken kurz auf, während die Tastatur initialisiert wird.
 Rafael hat momentan einen immensen Verbrauch an Taschentüchern.
-Wie oft darf man die PIN falsch eingeben?
+Wie oft darf man die Identifikationsnummer falsch eingeben?
 Keine Ursache!
 Tut das Husten weh?
 Die Wandfarbe ist noch frisch.
@@ -159,7 +159,7 @@ Frau Schönberg verbot den Kindern, von den Vogelbeeren zu naschen.
 Schließen Sie die Augen und tippen Sie sich mit dem Zeigefinder an die Nasenspitze!
 Einstein zog in die Schweiz, um der Wehrpflicht zu entkommen.
 Faulheit kann ein wahnsinnig guter Antrieb sein.
-Egal wie gut man in Mathe ist, man findet mühelos ein Problem, das einen überfordert.
+Egal wie gut man in Mathe ist, man findet mühelos ein überforderndes Problem.
 Niemand darf davon erfahren.
 Wir veranstalten ein Kubb-Turnier.
 Die Hälfte meines Gehalts landet mehr oder weniger direkt beim Staat.
@@ -173,7 +173,7 @@ Diesmal ist uns der Mürbeteig besser gelungen.
 Daraus lässt sich problemlos ein Tortenboden formen.
 Den Spürhunden entgeht nichts.
 Bestimmte Vorgänge in der Politik lassen sich nur durch Geldköfferchen erklären.
-Ab einem IQ von hundertdreißig gilt man als hochbegabt und unter siebzig als geistig behindert.
+Ab einem Intelligenzquotienten von hundertdreißig gilt man als hochbegabt, unter siebzig als geistig behindert.
 Wollt ihr mal einen Intelligenztest machen?
 Ich sehe, du machst dir Gedanken.
 Auf der Herren-Toilette gibt es ein Medi-Kit.
@@ -186,7 +186,8 @@ Und ab dafür!
 Kennst du die Vorgeschichte dazu?
 Ein einziger Schwachpunkt reicht zur Infiltration.
 Lautlos klettert der Spezialagent den Fahrstuhlschacht hinauf.
-Er hangelt sich an einem Rohr entlang und lässt sich von oben auf den Gegner fallen.
+Er hangelt sich an einem Rohr entlang. 
+Am Rohr hängend lässt er sich von oben auf den Gegner fallen.
 In unserem Team fehlt noch ein Mechaniker.
 Sie haben alles mitgehört.
 Wenn man das Lied rückwärts hört, hört man eine versteckte Botschaft.
