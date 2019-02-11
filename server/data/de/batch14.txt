@@ -73,8 +73,6 @@ Vier betrunkene Opas musizieren und fühlen sich dabei frei wie der Wind.
 Du bist vielleicht eine Knalltüte!
 Zwölf Jahre lang musste Jan-Heinrich in Gera die Schulbank drücken.
 Der sagenumwobene Pferdeflüsterer ist zurückgekehrt!
-Vierhundertvier ist der wohl bekannteste Fehlercode des HTTP-Protokolls.
-Man muss nur ein Wort weglassen und schon kehrt sich die Bedeutung ins Gegenteil um.
 Aber die eigentliche Party steigt woanders.
 Es mag Sie überraschen, aber auch ich kann nicht alles gleichzeitig.
 Heute muss man anerkennen, dass Karola ihrer Zeit einfach voraus war.
@@ -118,7 +116,8 @@ Wenn da Stachelbeeren drin sind, kann ich es leider nicht essen.
 Das ist nur von außen.
 Grundsätzlich ist es immer ein schlechtes Zeichen, wenn ich beim Hockey der Beste bin.
 Jerry hat den Sekt zu schnell getrunken und nun ist ihm schwindelig.
-Es wird gegessen, was auf den Tisch kommt, und was auf den Tisch kommt, wird gegessen.
+Es wird gegessen, was auf den Tisch kommt.
+Was auf den Tisch kommt, wird gegessen.
 Wo finde ich die nächstliegende Autobahnmeisterei?
 Habt ihr etwas leckeres für mich?
 Irgendwann muss es auch ohne Leckerli klappen.
@@ -207,7 +206,7 @@ Herr Jepsen hat einen Schlüssel für das Bootshaus.
 So, ihr Lästermäuler, nun fasst euch mal an die eigene Nase!
 Aus der Pampe soll etwas Essbares werden?
 Kann ich mir nicht vorstellen.
-Er richtet sein Fernrohr in Richtung des Dokuments und versucht einen Blick darauf zu erhaschen.
+Er richtet sein Fernrohr auf das Dokument und versucht, einen Blick darauf zu erhaschen.
 Weil man nicht nah an die Tiere herankommt, braucht man zum Fotografieren ein Teleobjektiv.
 Fotografieren ist nur ohne Blitz erlaubt.
 Jedoch liegt die Schwimmhalle in einer anderen Tarifzone.
