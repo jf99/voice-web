@@ -3,7 +3,6 @@ Ein Loch in der Herzscheidewand soll operativ geschlossen werden.
 Was gibt es, mein Schwesterherz?
 Der Tester moniert vor allem die mangelnde Wartbarkeit.
 Es ist nur eine Frage der Zeit, bis Weltraumpiraten die Internationale Raumstation entern.
-Als der Astronaut vom Tag der offenen Tür auf dem Raumschiff erfuhr, blieb ihm die Luft weg.
 Sicher ist das Aufklärungsflugzeug eine teure Anschaffung.
 Wie lang ist die Aufmerksamkeitsspanne eines Goldfisches?
 Magst du Sushi?
@@ -33,7 +32,8 @@ Ein weiteres Geschwader hat sich auf den Weg nach Korea gemacht.
 Samuel rannte ungestüm auf die Verkäuferin los.
 So rabiat habe ich noch niemanden gegen Ratten vorgehen sehen.
 Und trotzdem hilft es kaum etwas.
-Mit der neuen Gliederung gefällt mir der Text gleich viel besser, obgleich er inhaltlich eher profan ist.
+Mit der neuen Gliederung gefällt mir der Text gleich viel besser.
+Der neue Text gefällt mir besser, obgleich er inhaltlich eher profan ist.
 Ich weiß nicht, irgendwie schmeckt der Schaumwein fade.
 Sie wird dir lauter Dinge in dein Ohr säuseln, die dich schmeicheln sollen.
 Lass dich nicht davon betören!
@@ -43,7 +43,8 @@ Schau mal, was die Scholle für abstehende Augen hat!
 Auf einer Eisscholle treibt Lars der Eisbär davon.
 Neu zum Rudel hinzugestoßene Tiere müssen sich erst assimilieren.
 Und wenn das jetzt noch automatisch ginge, wäre das das i-Tüpfelchen.
-Nicht dass ich mich langweilen würde, aber die anderen Stände will ich mir auch noch ansehen.
+Nicht dass ich mich langweilen würde, aber ich muss weiter.
+Die anderen Stände will ich mir auch noch ansehen.
 Xaver schritt voran und eine willenlose Menschenmenge folgte ihm.
 Solche Erlebnisse gehen ganz schön an die Substanz.
 Dann will Selina ihrem Freund endlich reinen Wein einschenken.
@@ -91,14 +92,13 @@ Wo sich viele Teilchen befinden, werden Teilchen von außerhalb besonders stark 
 Dadurch werden Ballungsräume immer größer.
 Der Raum dazwischen hingegen wird immer dünner besiedelt.
 Wo zu lange dieselbe Partei an der Macht ist, findet man immer Korruption.
-Folternde bekommen meist die Antworten, von denen der Gefolterte denkt, dass der Folternde sie hören will.
 Nicht selten sind das unwahre Antworten.
 Ohne Training wird man nicht besser.
 Ich wusste gar nicht, dass Marek aus Tschechien kommt.
 Spring zur Datei mit der Klassendefinition!
-Ein Ka­ta­ma­ran segelt unter falscher Flagge.
+Ein Katamaran segelt unter falscher Flagge.
 Halten Sie den Durchgang bitte frei!
-Die Wegsuche-KI kommt mit den Wendeschleifen nicht klar.
+Die künstliche Intelligenz zur Wegsuche kommt mit den Wendeschleifen nicht klar.
 Marek will noch mal.
 Auch Passivhäuser brauchen Energie.
 Kann man hier denn nicht lüften?
@@ -111,7 +111,8 @@ Wir kommen gerade aus Dingenskirchen.
 Auf der Südhalbkugel steht die Sonne mittags im Norden.
 Gelten Laubbläser nun offiziell als Blasinstrumente?
 Schon um halb sieben wurde ich heute von prächtiger Blasmusik geweckt.
-Und wenn ich vom Fenster auf den Hof blicke, wird gleich ein ganzes Orchester starten.
+Und wenn ich so auf den Hof blicke, wird gleich ein ganzes Orchester starten.
+Vom Fenster sah die alte Dame auf den Hof.
 Ohne Diffusion wäre der Geruchssinn relativ nutzlos.
 Niemand fängt mit Mitte zwanzig noch das Rauchen an.
 Tief Steffi sorgt dafür, dass die Sonnenanbeter weiterziehen.
@@ -124,7 +125,8 @@ Nach Atem ringend taumelt er zurück.
 Der Fahrer nutzt die Gelegenheit und braust mit seiner Limousine davon.
 Noch immer benebelt setzt der Beamte sich auf die Bordsteinkante.
 Nach zwei Minuten ist er wieder zu sich gekommen.
-Wieso stinkst du denn so nach Rauch?, fragt der Kollege, der von all dem nichts mitbekommen hat.
+Wieso stinkst du denn so nach Rauch?
+Das fragt ihn der Kollege, der von all dem nichts mitbekommen hat.
 Skeptisch mustert er den Neuling, der gerade erst seine Ausbildung abgeschlossen hat.
 Was rieche ich denn da für einen Stoff?
 Unfähig eine Antwort zu geben, zuckt er mit den Schultern.
@@ -173,7 +175,8 @@ Politisch gehören die Kanaren zu Spanien.
 Wie viele Kanarische Inseln gibt es?
 Alle Flüge von und nach Malaga wurden annulliert.
 Kann man auch eigene Motive erstellen und sich aufs T-shirt drucken lassen?
-Dazu muss das Motiv als Vektorgrafik vorliegen und darf nicht mehr als drei Farben enthalten.
+Dazu muss das Motiv als Vektorgrafik vorliegen.
+Zudem darf es nicht mehr als drei Farben enthalten.
 Niklas wollte schon immer mal einen Vulkan besichtigen.
 Wenigstens nicht Letzter!
 Könnte sowas auch hierzulande passieren?
@@ -192,7 +195,7 @@ Einmal das Holz zurechtsägen, bitte!
 Die meisten privaten Telefongespräche werden abends geführt.
 Benny Harms kennt die Gefahren des Ozeans.
 Dann fragt doch Benjamin um Rat!
-Ich brauche kein Maßband, um zu sehen, dass das mehr als ein Meter zehn sind.
+Ich brauche kein Maßband, um zu sehen, dass das mehr als hunderzehn Zentimeter sind.
 Vor dem Erdbeben benahmen sich die Ziegen seltsam.
 Nerve mich nicht dauernd mit neuen Benachrichtigungen!
 Bei einer Kissenschlacht ist das Hochbett eingestürzt.
