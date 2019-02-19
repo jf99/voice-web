@@ -41,7 +41,7 @@ Ihre Helligkeit stellt man über die Stromstärke ein.
 Der Zusammenhang von Strom und Spannung ist dabei jedoch nicht linear.
 Zudem unterliegt er der Temperatur und Fertigungstoleranzen.
 Insbesondere wenn der Wirkungsgrad relevant ist, bedarf es daher einer Ansteuerungselektronik.
-Damit die Wärme abgeführt werden kann, klebt man den Leuchtstreifen am besten auf einen Aluminiumträger.
+Damit die Wärme abgeführt werden kann, klebt man den Leuchtstreifen auf einen Aluminiumträger.
 Was den Strom gut leitet, ist meistens auch ein guter Wärmeleiter.
 Sandy Bergmann überzeugt mit einer starken Vorstellung.
 Schon wieder wurde der Maibaum gestohlen.
