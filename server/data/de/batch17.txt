@@ -1,8 +1,8 @@
 Wer ist Sigmund Jähn?
 Der Name des ersten deutschen Astronauten ist meist nur Ostdeutschen ein Begriff.
-Er flog damals für die UdSSR ins All.
+Er flog damals für die Sowjetunion ins All.
 Westdeutsche kennen meistens nur Thomas Reiter und Alexander Gerst.
-Auf der ISS herrscht immer Frieden.
+Auf der Internationalen Raumstation herrscht immer Frieden.
 Soll ich etwas von Rewe mitbringen?
 Kannst du mir deine Sammelpunkte geben, wenn du sie sowieso nicht brauchst?
 Ist jemand von euch Nichtschwimmer?
@@ -18,7 +18,8 @@ Wir machen uns auf.
 Deckel drauf und los!
 Eine Absage ist nicht das Ende der Welt.
 Mit Kerzenlicht ist es aber viel romantischer.
-Um sich den Eintritt zu sparen, sind Anna-Elisa und Sandy einfach über den Zaun geklettert.
+Anna-Elisa und Sandy sind einfach über den Zaun geklettert.
+Sie wollten sich den Eintritt sparen.
 Macht doch jeder.
 Das Volk blickt auf zum Firmament.
 Habt ihr euch die Farben gut eingeprägt?
@@ -35,12 +36,12 @@ Dieser Spruch eignet sich als Motto für Führungskräfte in ausschließlich lei
 Du bringst uns noch alle in den Knast.
 Handwerker, die Dreck hinterlassen, müssen den auch wieder entfernen.
 Aber wir sind doch kein Reinigungsdienst!
-LEDs sind komplizierter anzusteuern als Glühlampen.
+Leuchtdioden sind komplizierter anzusteuern als Glühlampen.
 Ihre Helligkeit stellt man über die Stromstärke ein.
 Der Zusammenhang von Strom und Spannung ist dabei jedoch nicht linear.
 Zudem unterliegt er der Temperatur und Fertigungstoleranzen.
 Insbesondere wenn der Wirkungsgrad relevant ist, bedarf es daher einer Ansteuerungselektronik.
-Damit die Wärme abgeführt werden kann, klebt man den LED-Streifen am besten auf einen Aluminiumträger.
+Damit die Wärme abgeführt werden kann, klebt man den Leuchtstreifen am besten auf einen Aluminiumträger.
 Was den Strom gut leitet, ist meistens auch ein guter Wärmeleiter.
 Sandy Bergmann überzeugt mit einer starken Vorstellung.
 Schon wieder wurde der Maibaum gestohlen.
@@ -48,7 +49,7 @@ Könnt ihr darauf nicht besser aufpassen?
 Darum macht sich Frau Sorgenfrei keine Gedanken.
 Sie macht ihrem Namen alle Ehre.
 Elina und Annina haben sich für den Gottesdienst einen Wettbewerb ausgedacht.
-Am Ende eines Kirchenliedes geht es darum, wer am längsten den letzten Ton halten kann.
+Am Ende eines Kirchenliedes geht es darum, am längsten den letzten Ton zu halten.
 Es muss möglichst schräg und peinlich klingen.
 Auch wenn die Sitznachbarn schon komisch gucken, muss man selbstbewusst bleiben.
 Während der Predigt schnaubt sich grundsätzlich jemand lautstark die Nase aus.
@@ -71,7 +72,8 @@ Oh Gott, ist das peinlich!
 Weg damit!
 Wieso muss man die mit dem Handtuch umwickelte Flasche in die Sonne stellen?
 Würde die Feuchtigkeit nicht auch so verdunsten und die Flasche abkühlen?
-Je weniger Energie von der Sonne kommt, desto mehr muss der Flasche entnommen werden, oder?
+Je weniger Energie von der Sonne kommt, desto mehr muss der Flasche entnommen werden.
+Ist es nicht so?
 Ich hoffe, ich habe keinen eurer Namen falsch geschrieben.
 Nein, aber falsch ausgesprochen.
 Wir fünf gegen euch drei, das erscheint mir gerecht.
@@ -93,19 +95,19 @@ Probleme müssen nicht nur benannt, sondern auch angegangen werden.
 Über mitgeteilten Neid weiß der Beneidete Bescheid.
 Landflüchtlinge beschleunigen die Landflucht.
 Gib dem Kind mal was Ordentliches zu essen!
-Nein, man kann auch über den Pazifik oder den Nordpol von Europa nach Amerika fliegen.
+Man kann auch über den Pazifik oder den Nordpol von Europa nach Amerika fliegen.
+In diesem Fall wäre es kein Transatlantikflug.
 Das ist zwar indirekter, aber dennoch möglich.
 Fühlt sich hier jemand angesprochen?
 Schon wieder ein Fehler mit dem Code vierhundertdrei.
 Sind Sie schon dahinter gekommen, wie Tamara in echt heißt?
-Wenn sie nach diesem Spruch nicht das Weite sucht, ist sie wirklich an dir interessiert.
+Sucht sie nach diesem Spruch nicht das Weite, ist sie wirklich an dir interessiert.
 Viele Grüße an den Sachsen, der jeden Tag seine Stimme abgibt!
 Die Autobahn musst du da verlassen, wo der Name deiner Zielstadt dran steht.
 Anscheinend ist das vielen hier nicht klar gewesen.
 Wollen wir das Let's Play zusammen schauen?
-Sobald ich genügend Leute mit meinem Verschlüsselungstrojaner erpresst habe, setze ich mich auf die Fidschi-Inseln ab.
 Dort soll es sehr schön sein.
-Das ist ein ABC-Alarm.
+Das ist ein Alarm, der vor einer atomaren, biologischen oder chemischen Bedrohung warnen soll.
 Erst in der Anonymität verhalten sich viele intolerant.
 Wenigstens bietet die Holzhütte etwas Windschutz.
 Die Wellblechverkleidung sieht altmodisch aus.
@@ -126,7 +128,8 @@ Grüne und rote Bojen markieren die Grenzen der Fahrrinne.
 Wurde der Code ausgiebig getestet?
 Falls Sie kein biometrisches Foto von sich haben, benutzen Sie den Automaten!
 Jetzt liegt es an dir.
-Mit Freunden auf dem Mond zu telefonieren macht keinen Spaß, weil man sich ständig ins Wort fällt.
+Mit Freunden auf dem Mond zu telefonieren, macht keinen Spaß.
+Ständig fällt man sich gegenseitig ins Wort.
 Die Latenz von drei Sekunden ist einfach zu hoch.
 Gibt es eigentlich Planeten mit geostationären Monden?
 Wahrscheinlich wäre die Unwucht zu groß.
@@ -148,7 +151,8 @@ Du hast eine starke Aura.
 Von dir geht positive Energie aus.
 Schließlich konnten sie mit Familie Hesse Frieden schließen.
 Wissen Sie, warum ich einen Anwalt beschäftige?
-Wenn ich denen schreibe, ist es Erpressung, aber wenn mein Anwalt das macht, heißt es Abmahnung.
+Wenn ich denen schreibe, würde man es als Erpressung auffassen.
+Aber wenn mein Anwalt das macht, heißt es Abmahnung.
 Das müssen Sie mir genauer erklären.
 Nee, lieber nicht.
 Davon hat mir mein Anwalt abgeraten.
@@ -204,7 +208,7 @@ Daraufhin hat der Rottweiler einen Fußgänger angefallen.
 Es geschah in einem kleinen Waldstück am Stadtrand.
 Schwächen wollte die Sowjetunion gegenüber dem Westen natürlich nicht zugeben.
 Der neue Pilot hat ständig Ärger mit den Leuten von der Flugsicherung.
-Weil zwei Abfangjäger der Bundeswehr die Schallmauer durchbrachen, gingen mehrere Anrufe bei der Polizei ein.
+Weil Abfangjäger der Bundeswehr die Schallmauer durchbrachen, gingen mehrere Anrufe bei der Polizei ein.
 Wenn zu einem Passagierflugzeug der Funkkontakt abbricht, starten routinemäßig zwei Abfangjäger.
 Die Eurofighter zwingen die Maschine zum Landen.
 Es scheint fast, als würde sich die Geschichte wiederholen.
@@ -215,7 +219,7 @@ So ist das im Leben.
 Reinhold kann es noch immer nicht fassen.
 Einer von euch hilft mir bitte beim Aufstellen des Tannenbaums.
 Wenn ihr euch nicht einigen könnt, bestimme ich einen.
-Die steilste ICE-Strecke führt durch Geislingen an der Steige.
+Die steilste Strecke des Intercity-Expresses führt durch Geislingen an der Steige.
 Kennst du dich in Salzwedel ein wenig aus?
 Immer, wenn ich auf Twitter bin, fühle ich mich irgendwie verfolgt.
 Wann war Marius das letzte Mal online?
@@ -236,7 +240,6 @@ Sich selbst an den Herd zu stellen, hält er für Zeitverschwendung.
 Ordnen Sie Gallenblase, Dünndarm und Bauchspeicheldrüse in der Abbildung korrekt zu!
 Letzte Nacht musste die freiwillige Feuerwehr fünfmal ausrücken.
 Jedes Mal wegen einer Kleinigkeit.
-Zu Weihnachten wünsche ich mir einen 3D-Scanner.
 Säurehaltige Lebensmittel sollten nicht in Alu verpackt werden.
 Zu viel Aluminium im Körper aufzunehmen, ist leicht.
 Pfeifend pinselt der Malermeister die Wand an.
